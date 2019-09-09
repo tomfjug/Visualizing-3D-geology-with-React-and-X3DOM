@@ -19,7 +19,7 @@ There are some React components cotaining simple 3D shapes, such as a box or a s
 
 Before running the application for the first time, the command "npm install -g webpack-dev-server" should be used from the project folder (called "Visualizing-3D-geology-with-React-and-X3DOM-master" by default)
 
-To run the application use the command: "npm start" in the project folder (react_x3dom)
+To run the application use the command: "npm start" in the project folder.
 
-If you want to use the database run the command: "mongod"
-Then run the command: "nodemon server" in the backend folder
+If one would want to use the database run the command "mongod" in a seperate command prompt,
+then run the command: "nodemon server" from the backend folder
