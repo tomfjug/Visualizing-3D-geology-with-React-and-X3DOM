@@ -13,7 +13,7 @@ https://www.mongodb.com/download-center/community
 The slices and wells are created from seperate reusable React Component. Both of them uses a dialog prompt for displaying additional information concerning them and a toggle used to decide whether an element should be displayed or hidden. Both the toggle and dialog prompt are created from their own React component. 
 There are also simple javascript model classes, that are used to contain info for slices and well. An object of these classes are used as a prop in definition of the corresponding component. 
 
-There are some React components cotaining simple 3D shapes, such as a box or a spheres. These provide an easy way to understand how X3DOM and React can be used togheter. Finaly, there are components exploring the possibility of using volume rendering from X3DOM to visualize a colection of slices. A user can use a slider to decide which slice get shown.
+There are some React components cotaining simple 3D shapes, such as a box or a spheres. These provide an easy way to understand how X3DOM and React can be used togheter. Finaly, there are components exploring the possibility of using volume rendering from the X3DOM documentation to visualize a colection of slices. A user can use a slider to decide which slice get shown.
 
 ## Setup
 
